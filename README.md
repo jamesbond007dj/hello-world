@@ -37,20 +37,23 @@ Version Control is a system that allows you to revisit various versions of a fil
 ## Linux 
  1. Package Manager
 You can try installing Git via your distribution’s inherent package management tool.
-   - For **Fedora**:
+- For **Fedora**:
 ```
 $ sudo yum install git
 
 ```
-   - For **Ubuntu**:
+- For **Ubuntu**:
 ```
 $ sudo apt-get install git
 
 ```
 2. [Git Website for Linux](http://git-scm.com/download/linux)
+
 # Graphical Clients
+
 Git includes inherent Graphical User Interface (GUI) tools. However, users can also utilize third-party tools created for particular platforms.
 [GUI Clients for Mac, Windows, and Linux please click](https://git-scm.com/downloads/guis)
+
 # Initial Customization
 1. **Configuration of Variables** :
 An inherent Git tool called git config allows the setting of configuration variables that control aspects of Git’s operation and look.
@@ -81,6 +84,7 @@ To check settings, use the git config below _command:_
 
 ```
 _Example:_
+
 ```
 $ git config --list
 user.name=Jane Smith
@@ -96,6 +100,7 @@ There are three ways to get more information on a particular command, by _access
 git help command
 git command --help
 man git-command
+
 ```
 # Setting up a Git Repository
 1. **Importing** :

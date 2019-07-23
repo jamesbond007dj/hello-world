@@ -39,6 +39,7 @@ Version Control is a system that allows you to revisit various versions of a fil
 You can try installing Git via your distribution’s inherent package management tool.
 - For **Fedora**:
 ```
+
 $ sudo yum install git
 
 ```

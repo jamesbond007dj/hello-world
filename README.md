@@ -227,3 +227,4 @@ _*This command pushes changes from the local **“master”** branch to the remo
 *For cloned repositories, Git will automatically give the name **“origin”** to the server from which you cloned and the name **“master”** to your local repository. However, these names can be changed by the user._
 # Stashing Changes
 When you are not ready to commit changes but do not want to lose them either, git stash is a great option. This command temporarily removes changes and hides them, giving you a clean working directory. When you are ready to continue working on the changes, simply use the git stash apply command to retrieve the hidden changes.
+**THE END**
